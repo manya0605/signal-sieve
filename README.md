@@ -1,8 +1,8 @@
-SignalSage AIOps 🚀
+Signalsieve AIOps 🚀
 
 AI-Powered Cross-Service Alert Correlation and Incident Intelligence
 
-SignalSage AIOps is an AIOps prototype designed to help IT and DevOps teams understand large volumes of system alerts. It correlates potentially related alerts across dependent services, ranks possible root causes, identifies repeated alert patterns, and recommends alert-tuning improvements for human review.
+SignalSieve AIOps is an AIOps prototype designed to help IT and DevOps teams understand large volumes of system alerts. It correlates potentially related alerts across dependent services, ranks possible root causes, identifies repeated alert patterns, and recommends alert-tuning improvements for human review.
 
 The goal is to help operators move from reviewing individual alerts to investigating related incidents through a single dashboard.
 
@@ -10,7 +10,7 @@ The goal is to help operators move from reviewing individual alerts to investiga
 
 Modern software systems generate alerts from many interconnected services. A single underlying problem can trigger multiple alerts, making it difficult for engineers to identify the primary issue and distinguish important incidents from repetitive alert patterns.
 
-SignalSage AIOps addresses this challenge through cross-service alert correlation, heuristic root-cause analysis, alert-pattern analysis, and human-reviewed tuning recommendations.
+SignalSieve AIOps addresses this challenge through cross-service alert correlation, heuristic root-cause analysis, alert-pattern analysis, and human-reviewed tuning recommendations.
 
 💡 Key Features
 
@@ -68,7 +68,7 @@ Development environment| Visual Studio Code
 
 📁 Project Structure
 
-SignalSage_AIOps/
+SignalSieve_AIOps/
 │
 ├── .venv/                         # Local Python environment (not committed)
 ├── requirements.txt               # Python dependencies
@@ -235,7 +235,7 @@ These are prototype results using synthetic data. They should not be interpreted
 
 👥 Team
 
-Project: SignalSage AIOps
+Project: SignalSieve AIOps
 
 Team Name: Spectrum
 
@@ -247,10 +247,5 @@ Team Members:
 - Manya M V
 - Lalitha M N
 - Prathiksha Sanjeev
-📄 License
 
-Add the license selected by your team before publishing the repository publicly.
-
----
-
-SignalSage AIOps — From alert overload to incident intelligence.
+SignalSieve AIOps — From alert overload to incident intelligence.
